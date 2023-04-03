@@ -16,9 +16,7 @@ Requirements
 Python 3.7+
 Pandas
 Numpy
-Scikit-learn
-Matplotlib
-Installation
+Plotly express
 
 Clone the repository:
 bash
