@@ -3,7 +3,7 @@ import csv
 from airtable import Airtable
 
 # Configura tus credenciales de Airtable
-API_KEY = 'keytvdDDYw0Jbmdk6'
+API_KEY = 'YOUR_API_KEY'
 BASE_ID = 'YOUR_BASE_ID'
 TABLE_NAME = 'YOUR_TABLE_NAME'
 
