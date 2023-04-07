@@ -1,55 +1,48 @@
 
-ATP-Stats
-ATP-Analysis-Ranking Project
+# - Proyecto de Análisis de Estadísticas de Jugadores de ATP:
 
-ATP-Analysis-Ranking Project
-Description
-The aim of this project is to analyze various statistics from the ATP (Association of Tennis Professionals) database and build a customized ranking model based on player performance. Subsequently, we will compare our ranking with the current ATP ranking to determine the effectiveness of our model.
+Este proyecto tiene como objetivo analizar las estadísticas de los jugadores de ATP a partir de datos extraídos mediante web scraping utilizando Octoparse. 
+El grupo ha trabajado en conjunto en todo el proceso de preprocesamiento y análisis de datos utilizando la plataforma DataLore de JetBrains.
 
-Features
 
-Analysis of ATP player statistics
-Construction of a personalized ranking model
-Comparison of the personalized ranking with the current ATP ranking
-Requirements
+# - Integrantes del Grupo:
 
-Python 3.7+
+Adrian Infantes (infantesromeroadrian@gmail.com)
+Anthony Perez (antoniperezherrera@gmail.com)
+Luis Miguel Perez (luismiperez17@gmail.com)
+
+
+# - Tecnologías y bibliotecas utilizadas:
+
+Octoparse
 Pandas
-Numpy
-Plotly express
+Plotly Express
+NumPy
+DataLore de JetBrains
 
-Clone the repository:
-bash
-Copy code
+
+# - Descripción del Proyecto:
+
+En este proyecto, hemos extraído datos de la página oficial de ATP utilizando la herramienta de web scraping Octoparse. 
+Los datos se han recopilado en varios archivos CSV que contienen las estadísticas de los mejores jugadores.
+
+A continuación, hemos utilizado la biblioteca de Python Pandas para cargar, limpiar y preprocesar los datos. 
+Con los datos limpios y estructurados, hemos realizado análisis exploratorio de los datos utilizando herramientas de análisis como NumPy.
+Finalmente, hemos visualizado los resultados del análisis utilizando la biblioteca Plotly Express para generar gráficos interactivos y presentar nuestras conclusiones de manera clara y atractiva.
+
+
+# - Cómo usar este repositorio:
+
+Clone el repositorio en su máquina local o descargue los archivos ZIP.
 git clone https://github.com/infantesromeroadrian/ATP-Stats.git
-Install the necessary dependencies:
+Asegúrese de tener instaladas las bibliotecas necesarias: pandas, plotly express y numpy. Puede instalarlas utilizando pip:
 bash
 Copy code
-cd ATP-Analysis-Ranking
-pip install -r requirements.txt
-Usage
+pip install pandas plotly-express numpy
 
-Download the ATP database from the official site: ATP World Tour
+Ejecute los scripts de Python o abra los archivos de Jupyter Notebook en un entorno compatible (por ejemplo, Jupyter Notebook, JupyterLab o DataLore de JetBrains).
 
-Extract the CSV file in the data folder of the project.
 
-Run the main script:
+# - Contribuciones:
+Agradecemos cualquier contribución, sugerencia o mejora en el proyecto. Por favor, siéntase libre de abrir un 'Issue' o enviar un 'Pull Request' en GitHub.
 
-css
-Copy code
-python main.py
-Operation
-The project performs the following operations:
-
-Loads the ATP database and performs an exploratory analysis of the data.
-Cleans and processes the data for use in the personalized ranking model.
-Trains and evaluates the personalized ranking model using Machine Learning algorithms.
-Generates the personalized ranking based on player performance.
-Compares the personalized ranking with the current ATP ranking, showing the differences and similarities between them.
-Contributions
-This project is open source and contributions are welcome. If you wish to contribute, please follow these instructions:
-
-Fork the repository.
-Clone your fork to your local machine.
-Create a feature branch to make changes.
-Make your changes and submit a Pull Request for review.
