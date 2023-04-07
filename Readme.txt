@@ -18,7 +18,7 @@ Octoparse
 Pandas
 Plotly Express
 NumPy
-DataLore de JetBrains
+DataLore de JetBrains (https://datalore.jetbrains.com/notebook/q2ac2reja1fZB2hhWaGZRE/uk17s8A3cqzNzdB6qhpNnE)
 
 
 # - Descripción del Proyecto:
