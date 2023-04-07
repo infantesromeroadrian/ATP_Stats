@@ -1,4 +1,4 @@
-﻿ServeStanding©_Player,ServeRating©,ServeRating©1,ServeRating©_URL,ServeRating©2,_1stServe,_1stServePointsWon,_2ndServePointsWon,_ServiceGamesWon,Avg\.Aces_Match,Avg\.DoubleFaults_Match,Field
+ServeStanding©_Player,ServeRating©,ServeRating©1,ServeRating©_URL,ServeRating©2,_1stServe,_1stServePointsWon,_2ndServePointsWon,_ServiceGamesWon,Avg\.Aces_Match,Avg\.DoubleFaults_Match,Field
 1,https://ws.protennislive.com/api/Atp/PlayerImage?playerId=KE17,https://www.atptour.com/en/~/media/images/flags/aus.svg,https://www.atptour.com/en/players/nick-kyrgios/ke17/overview,Nick Kyrgios,308.6,67.4%,79.4%,57.6%,92.9%,14.8,3.5
 2,https://ws.protennislive.com/api/Atp/PlayerImage?playerId=I186,https://www.atptour.com/en/~/media/images/flags/usa.svg,https://www.atptour.com/en/players/john-isner/i186/overview,John Isner,308.5,67.7%,79.8%,52.7%,90.2%,21.1,3.0
 3,https://ws.protennislive.com/api/Atp/PlayerImage?playerId=HB71,https://www.atptour.com/en/~/media/images/flags/pol.svg,https://www.atptour.com/en/players/hubert-hurkacz/hb71/overview,Hubert Hurkacz,299.7,63.4%,79.2%,54.9%,89.9%,14.0,1.7

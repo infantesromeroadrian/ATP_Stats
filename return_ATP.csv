@@ -1,4 +1,4 @@
-﻿ReturnStanding©_Player,ReturnRating©,ReturnRating©1,ReturnRating©_URL,ReturnRating©2,_1stServeReturnPointsWon,_2ndServeReturnPointsWon,_ReturnGamesWon,_BreakPointsConverted,Field
+ReturnStanding©_Player,ReturnRating©,ReturnRating©1,ReturnRating©_URL,ReturnRating©2,_1stServeReturnPointsWon,_2ndServeReturnPointsWon,_ReturnGamesWon,_BreakPointsConverted,Field
 1,https://ws.protennislive.com/api/Atp/PlayerImage?playerId=Z419,https://www.atptour.com/en/~/media/images/flags/esp.svg,https://www.atptour.com/en/players/bernabe-zapata-miralles/z419/overview,Bernabe Zapata Miralles,165.3,34.2%,52.3%,31.0%,47.8%
 2,https://ws.protennislive.com/api/Atp/PlayerImage?playerId=MM58,https://www.atptour.com/en/~/media/images/flags/rus.svg,https://www.atptour.com/en/players/daniil-medvedev/mm58/overview,Daniil Medvedev,164.6,32.8%,55.2%,30.6%,46.0%
 3,https://ws.protennislive.com/api/Atp/PlayerImage?playerId=N409,https://www.atptour.com/en/~/media/images/flags/esp.svg,https://www.atptour.com/en/players/rafael-nadal/n409/overview,Rafael Nadal,160.8,34.4%,51.7%,30.0%,44.7%
